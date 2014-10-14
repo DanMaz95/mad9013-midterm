@@ -78,6 +78,8 @@ a{
 /*    width: 100%;*/
     text-align: left;
 /*    float: left;*/
+    background-color: #fff;
+    color: #004C7F;
 }
 
 .main{
@@ -147,15 +149,15 @@ a{
 	padding: 8px 16px;
 	text-align: center;
 	text-decoration: none;
-	color: #004C7F;
-	background-color: #e4e4e4;
+	color: #fff;
+	background-color: #004C7F;
 }
 .navbar a:visited,
 .navbar a:hover,
 .navbar a:active,
 .navbar a:focus{
 	color: #fff;
-	background-color: #004C7F;
+	background-color: #007ACC;
 }
 
 /***********************************
