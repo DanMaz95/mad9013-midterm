@@ -196,6 +196,8 @@ a{
     
     .navbar{
         width: 100%;
+        color: #fff;
+	    background-color: #004C7F;
     }
     
     .navbar li{
@@ -240,6 +242,8 @@ a{
     .navbar{
         float: left;
         width: 100%;
+        color: #fff;
+	    background-color: #004C7F;
     }
     
     .navbar li{
@@ -295,6 +299,8 @@ a{
     .navbar{
         width: 100%;
         float: left;
+        color: #fff;
+	    background-color: #004C7F;
     }
     
     .navbar li{
@@ -341,6 +347,8 @@ a{
         width: 12%;
         float: left;
         margin-left: 2%;
+        color: #fff;
+	    background-color: #004C7F; 
     }
     
     .navbar a{
